@@ -112,11 +112,17 @@ content:
         quote: >
           현재 업무에 사용 중 혹은 사용 했던 기술들 입니다.
         description: | # this will include new lines to allow paragraphs
-          * 아니 이거 어떻게하는겅미1
-          * 아니 이거 어떻게하는겅미2
-          * 아니 이거 어떻게하는겅미3
-          * 아니 이거 어떻게하는겅미4
-          * 아니 이거 어떻게하는겅미5
+          * Java
+          * JPA, Querydsl, Hibernate
+          * Gradle, Maven
+          * IntelliJ, Visual Studio Code, DataGrip
+      - layout: left
+        title: DevOps
+        description: |
+          * MySQL, MariaDB, PostgreSQL
+          * S3, EC2
+          * Nginx
+          * Linux: Redhat Ubuntu CentOS
 
   - title: Award
     layout: text
