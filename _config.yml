@@ -86,8 +86,9 @@ content:
         description: | # this will include new lines to allow paragraphs
             **주요 업무**
             * 교육사업 CBT 시스템 개발
-            * SpringBoot, JPA 및 QueryDsl을 활용한 서비스 개발
-            * JPA 쿼리 성능 개선
+            * 스프링 API 서버 개발(회원기능, 시험화면기능, 채점 및 모의고사 재시험, 로그수집 등)
+            * JPA 및 QueryDsl을 활용한 서비스 개발
+            * 인프라 환경을 이용한 배포 환경 구성(Docker, Nginx, Cloud)
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
